@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelList.API", "HotelList.API.csproj", "{88467A4E-0A60-4C8E-89AE-6FD58E588FEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnilSeriLog", "..\AnilSeriLog\AnilSeriLog.csproj", "{DFC2F0CF-F0E2-4563-81C8-7A791BB0F44F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88467A4E-0A60-4C8E-89AE-6FD58E588FEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88467A4E-0A60-4C8E-89AE-6FD58E588FEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88467A4E-0A60-4C8E-89AE-6FD58E588FEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88467A4E-0A60-4C8E-89AE-6FD58E588FEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC2F0CF-F0E2-4563-81C8-7A791BB0F44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC2F0CF-F0E2-4563-81C8-7A791BB0F44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC2F0CF-F0E2-4563-81C8-7A791BB0F44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC2F0CF-F0E2-4563-81C8-7A791BB0F44F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AEE00FB-65B5-4996-8C70-60C9D3AC1B9A}
+	EndGlobalSection
+EndGlobal
